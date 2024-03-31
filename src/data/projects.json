@@ -1,0 +1,43 @@
+[
+  {
+    "title": "OpTexa",
+    "imageSrc": "projects/OpTexa.png",
+    "description": "A mobile application primarily designed for visually impaired individuals, offering real-time object and color detection, text recognition, translation, and audio descriptions with a user-friendly voice assistant interface.",
+    "skills": ["Flutter", "YoloV5", "Google ML Kit"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/ShoyebWritesCode/Design_Project_1-OpTexa"
+  },
+  {
+    "title": "IUT Cart",
+    "imageSrc": "projects/IUTCart.png",
+    "description": "An online marketplace for IUTians to empower on-campus businesses. It offers essential features such as product listings, shopping carts, robust search & filtering, order rating & review, and user account management.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/ShoyebWritesCode/IUTCart"
+  },
+  {
+    "title": "WashIT",
+    "imageSrc": "projects/WashIT.png",
+    "description": " A web-based platform to automate laundry management process at IUT, featuring online/offline order placement, order tracking, comprehensive admin panel, staff/user management, and the flexibility to add new services.",
+    "skills": ["HTML", "CSS", "JavaScript", "PHP"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/ShoyebWritesCode/SPL-01_WashIt"
+  },
+
+  {
+    "title": "Reminiscence",
+    "imageSrc": "projects/backend.jpg",
+    "description": "A web application for personal diary management with basic CRUD operations. Implemented Oauth2.O and managed media handling using multer.",
+    "skills": ["EJS", "Express", "Node", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/ShoyebWritesCode/Reminiscence"
+  },
+  {
+    "title": "Duck Simulator",
+    "imageSrc": "projects/project.png",
+    "description": "A console-based duck simulator following design principles. Implemented design patterns- adapter, decorator, factory, abstract factory, composite, and observer pattern.",
+    "skills": ["Java"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/ShoyebWritesCode/Duck-Simulator"
+  }
+]

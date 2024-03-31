@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Practice Partner",
+    "organisation": "Kaizen Apps",
+    "startDate": "Feb, 2024",
+    "endDate": "Mar, 2024",
+    "experiences": [
+      "Integrated openai APIs, implemented firebase auth (email, OAuth)"
+    ]
+  },
+  {
+    "role": "True Market Leaders",
+    "organisation": "",
+    "startDate": "April, 2024",
+    "endDate": "",
+    "experiences": ["Currently working on it"]
+  }
+]
